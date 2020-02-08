@@ -1,0 +1,21 @@
+/*//META{"name":"Unpin DM Tabs","description":"Shortens the Friends and Nitro tab in DMs","author":"Hoofer#0001 | https://twitter.com/leHoofer","version":"1.0","website":"https://www.iman.engineer","source":""}*//**/
+
+.da-channel[href="/channels/@me"]  > .da-layout > .da-content {
+  visibility: hidden;
+}
+.da-channel[href="/channels/@me"] {
+  max-width: 42px;
+}
+
+.da-channel[href="/store"]  > .da-layout > .da-content {
+  visibility: hidden;
+}
+.da-channel[href="/store"] {
+  max-width: 42px;
+}
+.da-channel[href="/store"]  {
+  position: relative;
+  top: -44px;
+  margin-bottom: -45px;
+  right: -44px;
+}
