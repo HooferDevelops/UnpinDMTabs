@@ -1,4 +1,4 @@
-/*//META{"name":"Unpin DM Tabs","description":"Shortens the Friends and Nitro tab in DMs","author":"Hoofer#0001 | https://twitter.com/leHoofer","version":"1.0","website":"https://www.iman.engineer","source":""}*//**/
+/*//META{"name":"Unpin DM Tabs","description":"Shortens the Friends and Nitro tab in DMs","author":"Hoofer#0001 | https://twitter.com/leHoofer","version":"1.0","website":"https://www.iman.engineer","source":"https://raw.githubusercontent.com/HooferDevelops/UnpinDMTabs/master/UnpinDMTabs.theme.css"}*//**/
 
 .da-channel[href="/channels/@me"]  > .da-layout > .da-content {
   visibility: hidden;
