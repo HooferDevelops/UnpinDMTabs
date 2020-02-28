@@ -7,6 +7,10 @@
   max-width: 42px;
 }
 
+.da-layout > .da-children {
+  visibility: hidden !important;
+}
+
 .da-channel[href="/store"]  > .da-layout > .da-content {
   visibility: hidden;
 }
